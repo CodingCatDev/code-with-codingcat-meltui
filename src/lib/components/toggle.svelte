@@ -11,7 +11,7 @@
 bg-white text-base leading-4 text-orange-800 shadow-lg hover:bg-orange-100
   data-[disabled]:cursor-not-allowed data-[state=on]:bg-orange-200
   data-[state=on]:text-orange-900 p-2"
-	use:melt={$root}>{$pressed ? 'Toggled' : 'Toggle'}</button
+	use:melt={$root}>{$pressed ? 'Melt Toggled' : 'Melt Toggle'}</button
 >
 
 <style>

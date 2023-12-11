@@ -3,5 +3,7 @@
 	import ToggleRunes from '$lib/components/toggleRunes.svelte';
 </script>
 
-<Toggle />
-<ToggleRunes />
+<div class=" bg-slate-500 h-screen w-screen flex flex-col gap-2">
+	<Toggle />
+	<ToggleRunes />
+</div>
