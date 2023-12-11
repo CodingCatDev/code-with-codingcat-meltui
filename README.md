@@ -1,5 +1,11 @@
 # create-svelte
 
+## Watch Code with CodingCat.dev
+
+https://youtube.com/live/Crlo-Qfu6qs?feature=share
+
+## Svelte Stuff
+
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Creating a project
